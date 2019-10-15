@@ -2,24 +2,24 @@
 def Quicksort(list):
     smaller = []
     bigger = []
-    keylist = []
+    center = []
 
-    if len(list) <= 1:
-        return list
+    if len(list) <= 1:  #當list只有一個或更少元素時直接return
+        return list 
 
     else :
-        key = list[0]
+        major = list[0]
         for i in list:
-            if i < key:
+            if i < major:
                 smaller.append(i)
-            elif i > key:
+            elif i > major:
                 bigger.append(i)
             else : 
-                keylist.append(i)
+                center.append(i)
 
     smaller = Quicksort(smaller)
     bigger = Quicksort(bigger)
-    return smaller + keylist + bigger
+    return smaller + center + bigger
 Terry = [13,17,19,777,20,666,26,27,34]
-print("大小順序是",Quicksort(Terry))
+print ("大小順序為",Quicksort(Terry))
 ```
