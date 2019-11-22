@@ -43,34 +43,6 @@ class Solution(object):
                 
     def search(self, root, target):
         """
-    ## PASS def delete(self, root, target):
-        """
-        :type root: TreeNode
-        :type target: int
-        :rtype: TreeNode(the root of new completed binary search tree) (cannot search())
-        """
-        while self.search(root, target) is True:
-            if target < root.val:
-                return self.delete(root.left,target)
-            elif target > root.val:
-                return self.delete(root.right,target)
-            else:
-                if root.left is None:
-                    children=root.right
-                    root=None
-                    return children
-                elif root.right is None:
-                    children=root.left
-                    root=None
-                    return children
-                elif root.left is None & root.right is None:
-                    return root
-                children=self.mini(root.right)
-                root.val=children.val
-                root.right=self.delete(root.right,children.val)
-            self.delete(root.val, target)
-        else:
-            return root
         :type root: TreeNode
         :type target: int
         :rtype: TreeNode(searched node)
@@ -81,4 +53,33 @@ class Solution(object):
             return self.search(root.left,target)
         else:
             return self.search(root.right,target)
-  
+        
+        # def delete(self, root, target):
+        #"""
+        #:type root: TreeNode
+        #:type target: int
+        #:rtype: TreeNode(the root of new completed binary search tree) (cannot search())
+        #"""
+        #while self.search(root, target) is True:
+        #    if target < root.val:
+        #        return self.delete(root.left,target)
+        #    elif target > root.val:
+        #        return self.delete(root.right,target)
+        #    else:
+        #        if root.left is None:
+        #            children=root.right
+        #            root=None
+        #            return children
+        #        elif root.right is None:
+        #            children=root.left
+        #            root=None
+        #            return children
+        #        elif root.left is None & root.right is None:
+        #            return root
+        #        children=self.mini(root.right)
+        #        root.val=children.val
+        #        root.right=self.delete(root.right,children.val)
+        #    self.delete(root.val, target)
+        #else:
+        #    return root
+                    
