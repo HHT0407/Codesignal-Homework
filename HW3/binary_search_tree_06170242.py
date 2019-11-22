@@ -54,7 +54,7 @@ class Solution(object):
         else:
             return self.search(root.right,target)
         
-        # def delete(self, root, target):
+    def delete(self, root, target):
         #"""
         #:type root: TreeNode
         #:type target: int
