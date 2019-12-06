@@ -5,7 +5,8 @@
 
 # 流程圖
 
- <img src='' height=400 weight =400>
+ <img src='https://github.com/HHT0407/Codesignal-Homework/blob/master/f5.png' height=400 weight =400>
  
  # 學習歷程
 這學期真的有點忙，功課上光是要應付就算是不遺餘力也很難單單靠自己完成，程式碼的部分多半都用理解的為主，也都是參考同學和網路上的資料，希望之後能夠克服障礙，靠自己寫出一點東西。
+# 參考資料  http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html  https://www.youtube.com/watch?v=KyUTuwz_b7Q
