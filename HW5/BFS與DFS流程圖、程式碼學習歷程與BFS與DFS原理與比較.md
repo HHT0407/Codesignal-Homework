@@ -19,4 +19,6 @@
 
 <img src='https://github.com/HHT0407/Codesignal-Homework/blob/master/BDS%20DFS%E5%8E%9F%E7%90%86.jpg' height=400 weight =400>
 
+# 學習歷程 
+這一次的作業其實多半都是以參考資料來源來理解，雜事纏身相對無法花太多時間在單一科目上，就像助教說的，拿多少資源做多少事。
 # 參考資料來源 http://www.csie.ntnu.edu.tw/~u91029/Graph.html
