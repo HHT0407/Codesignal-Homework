@@ -14,3 +14,9 @@
 
 * 時間複雜度
 * 最差情形下，BFS必須尋找所有到可能節點的所有路徑，因此其時間複雜度為{\displaystyle O(|V|+|E|)}{\displaystyle O(|V|+|E|)}，其中{\displaystyle |V|}{\displaystyle |V|}是節點的數目，而{\displaystyle |E|}{\displaystyle |E|}是圖中邊的數目。
+
+# 流程圖
+
+<img src='https://github.com/HHT0407/Codesignal-Homework/blob/master/BDS%20DFS%E5%8E%9F%E7%90%86.jpg' height=400 weight =400>
+
+# 參考資料來源 http://www.csie.ntnu.edu.tw/~u91029/Graph.html
