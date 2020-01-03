@@ -1,7 +1,7 @@
+# 流程圖
+<img src='https://github.com/HHT0407/Codesignal-Homework/blob/master/Dijkstra.jfif' height=400 weight =400>
 
-<img src='https://github.com/HHT0407/Codesignal-Homework/blob/master/BDS%20DFS%E5%8E%9F%E7%90%86.jpg' height=400 weight =400>
-
-
+# 原理說明
 迪傑斯特拉（Dijkstra）算法是一個按照路徑長度遞增的次序產生的最短路徑算法。下圖為帶權值的有向圖，作為程序中的實驗數據。
 
 
@@ -31,6 +31,6 @@ cost[j]=Min_i(graph[0,i] | v_i \in V)
 
 其中最短路徑的存儲採用一個path整數數組，path[i]的值記錄vi的前一個節點的索引，通過path一直追溯到起點，就可以找到從vi到起始節點的最短路徑。比如起始節點索引為0，若path[3]=4, path[4]=0；那麼節點v2的最短路徑為，v0->v4->v3。
 
+# 學習歷程 這一次的功課程式碼的部分已經超出我個人能力範圍，但是尚可理解，所以程式碼的部分用參考作為替代。
 
-
-原文網址：https://kknews.cc/code/zj3g6l.html
+# 參考資料: 原文網址 https://kknews.cc/code/zj3g6l.html
