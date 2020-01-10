@@ -122,7 +122,7 @@
 
 ###  HW1 : QuickSort </br>
 [HW1-QuickSort 程式碼(更新版)]()</br>
-[HW1-QuickSort 程式碼])</br>
+[HW1-QuickSort 程式碼]()</br>
 [HW1-QuickSort 流程圖、學習歷程]()</br>
 [HW1-QuickSort 想法]()</br>
 
