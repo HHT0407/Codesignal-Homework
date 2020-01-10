@@ -8,7 +8,7 @@
 
 主要為資結與演算法課程內容與作業 </br>
 
-### ♦ Content ♦
+###  Content 
 
 [ 108學期 ](#-108學期-)</br>
       [ Week 1](#-week1-)</br>
@@ -58,54 +58,54 @@
 * No Class </br>
 
 ###  Week2 
-* [Linked List](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%202%20-%20Linked%20List.md) </br>
+* [Linked List]() </br>
 
 ###  Week3 
-* [Stack and Queue](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%203%20-%20Stack%20%26%20Queue.md) </br>
+* [Stack and Queue]() </br>
 
 ###  Week4 
-* [Set](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Set.md) </br>
-* [Insertion Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%204%20-%20Insertion%20Sort.md) </br>
-* [Bubble Sort vs Insertion Sort](https://youtu.be/G4dwRF_Rzd0)</br>
+* [Set]() </br>
+* [Insertion Sort]() </br>
+* [Bubble Sort vs Insertion Sort]()</br>
 ###  Week5 
 * No Class </br>
-* [HW1 - Quick Sort](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW1)</br>
+* [HW1 - Quick Sort]()</br>
 
 ###  Week6 
-* [Quick Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Quick%20Sort.md) </br>
-* [Heap Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%206%20-%20Heap%20Sort.md) </br>
+* [Quick Sort]() </br>
+* [Heap Sort]() </br>
 
 ###  Week7 
-* [Merge Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%207%20-%20Merge%20Sort.md) </br>
-* [HW2 - Heap Sort & Merge Sort](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW2)</br>
+* [Merge Sort]() </br>
+* [HW2 - Heap Sort & Merge Sort]()</br>
 
 ###  Week8 
-* [Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%208%20-%20Binary%20Tree.md) </br>
+* [Binary Tree]() </br>
 
 ###  Week9 
-* [Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%209%20-%20Binary%20Search%20Tree.md) </br>
-* [HW3 - Binary Search Tree](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW3)</br>
+* [Binary Search Tree]() </br>
+* [HW3 - Binary Search Tree]()</br>
 
 ###  Week10 
-* [Red Black Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2010%20-%20Red%20Black%20Tree.md) </br>
+* [Red Black Tree]() </br>
 
 ###  Week11 
-* [Hash Table](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2011%20-%20Hash%20Table.md) </br>
-* [HW4 - Hash Table](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW4)</br>
+* [Hash Table]() </br>
+* [HW4 - Hash Table]()</br>
 
 ###  Week12 
-* [Breadth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2012%20-%20Breadth-First%20Search.md)</br>
+* [Breadth-First Search]()</br>
 
 ###  Week13 
-* [Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2013%20-%20Depth-First%20Search.md) </br>
-* [HW5 - Breadth-First Search & Depth-First Search](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW5)</br>
+* [Depth-First Search]() </br>
+* [HW5 - Breadth-First Search & Depth-First Search]()</br>
 
 ###  Week14 
-* [Minimum Spanning Tree (Kruskal)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2014%20-%20Minimum%20Spanning%20Tree%20(Kruskal).md)</br>
+* [Minimum Spanning Tree (Kruskal)]()</br>
 
 ###  Week15 
-* [Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/blob/master/ClassNote/Week%2015%20-%20Shortest%20Path%20(Dijkstra).md) </br>
-* [HW6 - Minimum Spanning Tree (Kruskal) & Shortest Path (Dijkstra)](https://github.com/Chieh-Yin/Chiehyin/tree/master/HW6)</br>
+* [Shortest Path (Dijkstra)]() </br>
+* [HW6 - Minimum Spanning Tree (Kruskal) & Shortest Path (Dijkstra)]()</br>
 
 ###  Week16 
 * 總複習 </br>
@@ -148,54 +148,54 @@
 [HW5-BFS & DFS 流程圖、學習歷程、原理與比較]()</br>
 
 ###  HW6 : Dijkstra & Kruskal </br>
-[HW6-Dijkstra & Kruskal 程式碼](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW6/Dijkstra_06170206.py)</br>
-[HW6-Dijkstra & Kruskal 流程圖、學習歷程、原理說明](https://github.com/Chieh-Yin/Chiehyin/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)</br>
+[HW6-Dijkstra & Kruskal 程式碼]()</br>
+[HW6-Dijkstra & Kruskal 流程圖、學習歷程、原理說明]()</br>
 
 -----
 ##  Practice </br>
 ###  CodeSignal </br>
- #### [Arcade_Intro](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Intro)</br>
-- [1. Add](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/1.%20Add.py)</br>
-- [2. Century From Year](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/2.%20Century%20From%20Year.py)</br>
-- [3. Check Palindrome](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/3.%20Check%20Palindrome.py)</br>
-- [4. Adjacent Elements Product](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/4.%20Adjacent%20Elements%20Product.py)</br>
-- [5. Shape Area](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/5.%20Shape%20Area.py)</br>
-- [6. Make Array Consecutive](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Intro/6.%20Make%20Array%20Consecutive.py)</br>
+ #### [Arcade_Intro]()</br>
+- [1. Add]()</br>
+- [2. Century From Year]()</br>
+- [3. Check Palindrome]()</br>
+- [4. Adjacent Elements Product]()</br>
+- [5. Shape Area]()</br>
+- [6. Make Array Consecutive]()</br>
      
- #### [Arcade_Python](https://github.com/Chieh-Yin/Chiehyin/tree/master/Codesignal/Arcade_Python)</br>
- - [5. Count Bits](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/5.%20Count%20Bits.py)</br>
- - [6. Modulus](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/6.%20Modulus.py)</br>
- - [7. Simple Sort](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/7.%20Simple%20Sort.py)</br>
- - [8. Base Conversion](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/8.%20Base%20Conversion.py)</br>
- - [9. Mex Function](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/9.%20Mex%20Function.py)</br>
- - [10. List Beautifier](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/10.%20List%20Beautifier.py)</br>
- - [12. Fix Message](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/12.%20Fix%20Message.py)</br>
- - [13. Cat Walk](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/13.%20Cat%20Walk.py)</br>
- - [14. Convert Tabs](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/14.%20Convert%20Tabs.py)</br>
- - [15. Feedback Review](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/15.%20Feedback%20Review.py)</br>
- - [16. Is Word Palindrome](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/16.%20Is%20Word%20Palindrome.py)</br>
- - [17. Permutation Cipher](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/17.%20Permutation%20Cipher.py)</br>
- - [18. Competitive Eating](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/18.%20Competitive%20Eating.py)</br>
- - [19. New Style Formatting](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/19.%20New%20Style%20Formatting.py)</br>
- - [20. Get Commit](https://github.com/Chieh-Yin/Chiehyin/blob/master/Codesignal/Arcade_Python/20.%20Get%20Commit.py)</br>
+ #### [Arcade_Python]()</br>
+ - [5. Count Bits]()</br>
+ - [6. Modulus]()</br>
+ - [7. Simple Sort]()</br>
+ - [8. Base Conversion]()</br>
+ - [9. Mex Function]()</br>
+ - [10. List Beautifier]()</br>
+ - [12. Fix Message]()</br>
+ - [13. Cat Walk]()</br>
+ - [14. Convert Tabs]()</br>
+ - [15. Feedback Review]()</br>
+ - [16. Is Word Palindrome]()</br>
+ - [17. Permutation Cipher]()</br>
+ - [18. Competitive Eating]()</br>
+ - [19. New Style Formatting]()</br>
+ - [20. Get Commit]()</br>
 
 
 ###  Leetcode </br>
- - [707. Design Linked list](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/707_Design%20Linked%20List_06170206.py) </br>
- - [9. Palindrome Number](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/9_Palindrome%20Number_06170206.py)</br>
- - [155. Min Stack](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/155_Min%20Stack_06170206.py) </br>
- - [965. Univalued Binary Tree](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/965_Univalued%20Binary%20Tree_06170206.py) </br>
- - [705. Design HashSet](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/705_Design%20HashSet_06170206.py) </br>
- - [232. Implement Queue using Stacks](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170206.py) </br>
- - [371. Sum of Two Integers](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/371_Sum%20of%20Two%20Integers_06170206.py)</br>
- - [441. Arranging Coins](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/441_Arranging%20Coins_06170206.py)</br>
- - [415. Add Strings](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/415_Add%20Strings_06170206.py)</br>
- - [283.Move Zeroes](https://github.com/Chieh-Yin/Chiehyin/blob/master/Leetcode/283_Move%20Zeroes_06170206.py)</br>
+ - [707. Design Linked list]() </br>
+ - [9. Palindrome Number]()</br>
+ - [155. Min Stack]() </br>
+ - [965. Univalued Binary Tree]() </br>
+ - [705. Design HashSet]() </br>
+ - [232. Implement Queue using Stacks]() </br>
+ - [371. Sum of Two Integers]()</br>
+ - [441. Arranging Coins]()</br>
+ - [415. Add Strings]()</br>
+ - [283.Move Zeroes]()</br>
 
 -----
 ##  CS50 
-* [CS50](https://github.com/Chieh-Yin/Chiehyin/tree/master/CS50)</br>
-* [My Note](https://github.com/Chieh-Yin/Chiehyin/blob/master/CS50/Week%208.md)</br>
+* [CS50]()</br>
+* [My Note]()</br>
 
 
 -----
