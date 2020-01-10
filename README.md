@@ -11,7 +11,7 @@
 ###  Content 
 
 [ 108學期 ](#-108學期-)</br>
-      [ Week 1](#-week1-)</br>
+      [⍤Week 1](#-week1-)</br>
       [ Week 2](#-week2-)</br>
       [ Week 3](#-week3-)</br>
       [ Week 4](#-week4-)</br>
